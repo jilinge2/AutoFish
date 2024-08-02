@@ -360,6 +360,6 @@ Watch <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTub
 
 Check again [Disclaimer](#disclaimer-warning) before downloading or using any of these:
 
-AutoFish 2.8.3: [Download](https://buymeacoffee.com/jsbots/e/95380)
+AutoFish 2.8.3 (outdated): [Download](https://buymeacoffee.com/jsbots/e/95380)
 
 AutoFish 3.0.0 Premium: [Download](https://www.buymeacoffee.com/jsbots/e/96734)
